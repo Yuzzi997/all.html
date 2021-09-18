@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(144, 202, 169);
+    font-family: monospace;
+}
+
+.box-one{
+    background-color:seagreen;
+    padding:10px;
+    height:100px;
+    width:100px;
+    border:30px solid red;
+    margin:100px;
+    box-sizing:border-box;
+}
