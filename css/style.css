@@ -1,11 +1,13 @@
 body{
     background-color: rgb(215, 252, 233);
+    display: inline-block;
 }
 
 
 h1{
     background-color: rgb(144, 202, 169);
    font-size: 60px;
+   display:none;
 }
 
 .box-one{
@@ -13,7 +15,7 @@ h1{
     padding:10px;
     height:100px;
     width:100px;
-    border:30px solid slateblue;
+    border:30px solid rgb(195, 90, 205);
     margin:100px;
     box-sizing: border-box;
 }
@@ -21,7 +23,7 @@ h1{
 h2{
     background-color: wheat;
     font-size:  40px;
-    
+    display: none;
 }
 
 h3{
