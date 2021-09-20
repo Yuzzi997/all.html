@@ -1,6 +1,5 @@
 body{
     background-color: rgb(215, 252, 233);
-    display: inline-block;
 }
 
 h1{
@@ -20,16 +19,15 @@ h1{
 
 h2{
     background-color: wheat;
-    font-size: 30px;
-    display: none;
+    font-size: 35px;
 }
 
 h3{
     background-color:thistle;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 h4{
     background-color:teal;
-    font-size: 20px;
+    font-size: 35px;
 }
