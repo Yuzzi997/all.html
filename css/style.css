@@ -3,11 +3,9 @@ body{
     display: inline-block;
 }
 
-
 h1{
     background-color: rgb(144, 202, 169);
-   font-size: 60px;
-   display:none;
+    font-size: 50px;
 }
 
 .box-one{
@@ -22,16 +20,16 @@ h1{
 
 h2{
     background-color: wheat;
-    font-size:  40px;
+    font-size: 30px;
     display: none;
 }
 
 h3{
     background-color:thistle;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 h4{
     background-color:teal;
-    font-size: 40px;
+    font-size: 20px;
 }
