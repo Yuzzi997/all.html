@@ -11,6 +11,7 @@ h1{
 h2{
     background-color: slategray;
     font-size: 20px;
+    display:inline-flex
 }
 
 h3{
