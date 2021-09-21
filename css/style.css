@@ -4,7 +4,8 @@ body{
 
 h1{
     background-color: rgb(144, 202, 169);
-    font-size: 50px;
+    font-size: 70px;
+    display: inline-flex;
 }
 
 .box-one{
@@ -20,14 +21,17 @@ h1{
 h2{
     background-color: wheat;
     font-size: 35px;
+    display: inline-flex;
 }
 
 h3{
     background-color:thistle;
     font-size: 35px;
+    display: inline-flex;
 }
 
 h4{
     background-color:teal;
     font-size: 35px;
+    display: inline-flex;
 }
